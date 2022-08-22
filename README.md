@@ -1,6 +1,4 @@
-# Olá! 
-
-# Conheça a minha Bio 👋
+# Olá! Conheça a minha Bio 👋
 
 
  Meu nome é Fernando Vaz, sou desenvolvedor Front-End e meu objetivo é aprender e continuar crescendo dentro da área de desenvolvimento.
