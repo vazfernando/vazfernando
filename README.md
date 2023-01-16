@@ -3,7 +3,7 @@
 
  Meu nome é Fernando Vaz, sou desenvolvedor Front-End e meu objetivo é aprender e continuar crescendo dentro da área de desenvolvimento.
 
-- Iniciei os meus estudos na plataforma CURSO EM VÍDEO com o curso de HTML5 e CSS3. Tive um ótimo aproveitamento do curso e meu interesse pelo Front End cresceu ainda mais. Já concluí 3 módulos de 5 e estou partindo para a reta final.
+- Iniciei os meus estudos na plataforma CURSO EM VÍDEO com o curso de HTML5 e CSS3. Tive um ótimo aproveitamento do curso e meu interesse pelo Front End cresceu ainda mais.
   
   ## Projetos desenvolvidos no CURSO EM VIDEO
   
