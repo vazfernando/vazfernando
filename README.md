@@ -5,7 +5,7 @@
   
 ## Meus projetos
   
-* **Projeto de página web responsiva**
+* **Projeto de página web responsiva links externos**
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto-android)](https://github.com/vazfernando/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-)
 - link desse projeto aqui
