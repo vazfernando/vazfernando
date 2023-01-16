@@ -1,14 +1,17 @@
 # Olá! Conheça a minha Bio 👋
 
 
-- Meu nome é Fernando Vaz, sou desenvolvedor Front-End e meu objetivo é aprender e continuar crescendo dentro da área de desenvolvimento.
+- Meu nome é Fernando Vaz, sou desenvolvedor Front-End conheça alguns projetos desenvolvidos por mim.
   
-  ## Projetos desenvolvidos no CURSO EM VIDEO
+  ## Projetos desenvolvidos 👇
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto-android)](https://github.com/vazfernando/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-)
+- link desse projeto aqui
+  * https://vazfernando.github.io/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-/
 
-  
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto_cordel_xilogravura)](https://github.com/vazfernando/projeto_cordel_xilogravura)
+- link desse projeto aqui
+  * https://vazfernando.github.io/projeto_cordel_xilogravura_parallax/
 
     
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
