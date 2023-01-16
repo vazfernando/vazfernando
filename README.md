@@ -7,7 +7,7 @@
   
   ## Projetos desenvolvidos no CURSO EM VIDEO
   
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto-pagina-web-responsiva-curiosidades-tech)](https://github.com/vazfernando/projeto-android)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto-pagina-android)](https://github.com/vazfernando/projeto-android)
 
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto_cordel_xilogravura)](https://github.com/vazfernando/projeto_cordel_xilogravura)
