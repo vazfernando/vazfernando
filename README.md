@@ -5,13 +5,13 @@
   
 ## Meus projetos
   
-### Projeto de página web responsiva
+* Projeto de página web responsiva
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto-android)](https://github.com/vazfernando/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-)
 - link desse projeto aqui
   * https://vazfernando.github.io/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-/
 
-### Projeto Página Web Responsiva Utilizando Efeito Parallax
+* Projeto Página Web Responsiva Utilizando Efeito Parallax
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto_cordel_xilogravura)](https://github.com/vazfernando/projeto_cordel_xilogravura)
 - link desse projeto aqui
