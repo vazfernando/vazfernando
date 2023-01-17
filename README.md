@@ -4,6 +4,10 @@
    - Meu nome é Fernando Vaz, sou desenvolvedor Front-End. Conheça aqui alguns dos projetos desenvolvidos por mim.
   
 ## Meus projetos
+
+* **Guess My Number 8bits
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=guess-my-number-8bits)](https://github.com/vazfernando/guess-my-number-8bits)
+
   
 * **Projeto de página web responsiva links externos**
   
