@@ -8,12 +8,14 @@
 * **Projeto de página web responsiva links externos**
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto-android)](https://github.com/vazfernando/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-)
+    
 - link desse projeto aqui
   * https://vazfernando.github.io/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-/
 ##
 * **Projeto de Página Web Responsiva Utilizando Efeito Parallax**
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto_cordel_xilogravura)](https://github.com/vazfernando/projeto_cordel_xilogravura)
+    
 - link desse projeto aqui
   * https://vazfernando.github.io/projeto_cordel_xilogravura_parallax/
 
