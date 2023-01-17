@@ -5,10 +5,13 @@
   
 ## Meus projetos
 
-* **Guess My Number 8bits
+* Guess My Number 8bits
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=guess-my-number-8bits)](https://github.com/vazfernando/guess-my-number-8bits)
 
-  
+- link desse projeto aqui
+  * https://vazfernando.github.io/guess-my-number-8bits/
+
 * **Projeto de página web responsiva links externos**
   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vazfernando&repo=projeto-android)](https://github.com/vazfernando/Projeto-Pagina-Web-Responsiva-Curiosidades-Tech-)
